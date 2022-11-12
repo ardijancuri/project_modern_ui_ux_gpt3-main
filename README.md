@@ -1,6 +1,6 @@
 # Modern UI/UX GPT-3
 
-## URL:https://ui-ux-gpt3.netlify.app/
+## URL: https://ui-ux-gpt3.netlify.app/
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
